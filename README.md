@@ -1,0 +1,2 @@
+# GolangAssignment
+Assignment of GoLang
